@@ -1,2 +1,2 @@
-# CheckOffServer
-AIR based Socket Server for CheckOff App
+# MultiCoreServer
+AIR based Socket Server for MultiCoreProcessors
